@@ -9,18 +9,23 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+<<<<<<< HEAD
 
 
 
 
-```{r}
-plot(car)
+
+=======
+Hi Renee, welcome to our project.
+Thanks.
+You're welcome, but I'd prefer some more enthusiasim 
+
+```{r task1}
+mean_value <- mean(cars$dist)
 ```
 
 
-
-
-
+>>>>>>> f4a5d2d498cf7460f8a278904353641428a6b518
 Good Graph!
 Also Erin is wearing a pair of rollas!
 ```{r task2}
