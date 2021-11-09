@@ -19,6 +19,7 @@ Trying again
 plot(cars)
 ```
 Good Graph!
+Also Erin is wearing a pair of rollas!
 ```{r task2}
 
 ```
