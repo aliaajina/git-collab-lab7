@@ -12,12 +12,12 @@ knitr::opts_chunk$set(echo = TRUE)
 Hi Renee, welcome to our project.
 Thanks.
 You're welcome, but I'd prefer some more enthusiasim 
-This is like nerdy internet chatting
-Trying again
 
 ```{r task1}
-plot(cars)
+mean_value <- mean(cars$dist)
 ```
+
+
 Good Graph!
 Also Erin is wearing a pair of rollas!
 ```{r task2}
