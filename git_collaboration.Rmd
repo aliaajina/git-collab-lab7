@@ -14,3 +14,12 @@ Thanks.
 You're welcome, but I'd prefer some more enthusiasim 
 This is like nerdy internet chatting
 Trying again
+
+```{r task1}
+plot(cars)
+```
+
+```{r task2}
+
+```
+
